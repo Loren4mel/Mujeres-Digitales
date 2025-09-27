@@ -1,8 +1,5 @@
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
-  <div>
-    typeScript 
-  </div>
-`;
+//import "./01.types";
+import  "./Solucion_ejercicios";
 
 
